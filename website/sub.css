@@ -1,0 +1,27 @@
+
+.btn:hover{
+	color: white !important;
+
+}
+.text{
+	background-color: black;
+	padding-top: 85px;
+	padding-left: 10px;
+	font-size: 25px;
+
+}
+html{
+	scroll-behavior: smooth;
+}
+
+p.pa{
+   font-style: sans-serif;
+   font-size: 90%;
+}
+
+.tm-footer{
+	clear: both;
+	background: #fff;
+	text-align: center;
+	padding: 10px;
+}
